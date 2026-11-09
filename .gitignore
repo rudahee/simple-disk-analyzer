@@ -1,0 +1,17 @@
+# Informes generados (contienen datos reales del disco escaneado)
+disk_report.html
+disk_analyzer.html
+*_report.html
+informe*.html
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
